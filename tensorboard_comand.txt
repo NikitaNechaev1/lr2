@@ -1,0 +1,1 @@
+tensorboard --logdir "D:\Documents\soroka_lab\lr1\logs"
