@@ -22,9 +22,9 @@ conv2d_transpose_4 (Conv2DTr (None, 112, 112, 64)      73792
 _________________________________________________________________
 conv2d_transpose_5 (Conv2DTr (None, 224, 224, 2)       1154      
 =================================================================
-Total params: 315,212
-Trainable params: 315,212
-Non-trainable params: 0
+Total params: 315,212<br />
+Trainable params: 315,212<br />
+Non-trainable params: 0<br />
 _________________________________________________________________
 None
 
